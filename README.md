@@ -2,6 +2,6 @@
 
 ###
 
-<p align="left">My name is Sarthak Chandel and I'm a software (mostly backend and AI focused) engineer, <br> which is just a fancy way of saying I talk to AI all day.</p>
+<p align="left">I'm Sarthak Chandel, a software engineer working mostly on backend and AI - turning vague ideas into APIs and increasingly expensive model calls.</p>
 
 ###
